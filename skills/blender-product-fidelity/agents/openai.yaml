@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Product Fidelity"
+  short_description: "Modelagem e render fotorrealista de produtos no Blender"
+  default_prompt: "Use $blender-product-fidelity para avaliar minhas referências e criar ou refinar este produto no Blender com realismo físico verificável."
